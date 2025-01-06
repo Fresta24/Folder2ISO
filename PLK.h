@@ -4,7 +4,7 @@
     L"Polish (Polski)", 
     {
         L"Źró&dło:",
-        L"&Cel:",
+        L"&Docelowo:",
         L"&Etykieta:",
         L"&System plików:",
         L"&Rozpocznij",
